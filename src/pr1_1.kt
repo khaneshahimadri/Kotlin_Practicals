@@ -12,6 +12,7 @@ fun main() {
     val co=60
     j=30
     co=10
+    println("i=$i")
     println("co="+co)
     println("i="+i)
     println("j="+j)
