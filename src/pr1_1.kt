@@ -9,6 +9,10 @@ fun main() {
     var b:Long=338927847
     var c:Short=-2
     var d:Byte=127
+    val co=60
+    j=30
+    co=10
+    println("co="+co)
     println("i="+i)
     println("j="+j)
     println("k="+k)
